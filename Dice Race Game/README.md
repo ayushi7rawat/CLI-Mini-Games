@@ -1,4 +1,4 @@
-### Dice Race Game
+## Dice Race Game
 
 * Dice-race game is a two player game.
 * The User sets the race finishing value. Score is displayed after every move.
