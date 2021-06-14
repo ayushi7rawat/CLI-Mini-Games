@@ -1,3 +1,4 @@
+#Dice Race Game
 if __name__ == '__main__':
   from random import randint
 
