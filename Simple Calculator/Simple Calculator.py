@@ -1,4 +1,5 @@
-#  A simple Calculator program
+# Name: A simple Calculator program
+# By: Ayushi Rawat
 def add(n1,n2):
   return n1+n2
 
