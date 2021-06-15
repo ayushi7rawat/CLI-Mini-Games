@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Name: A simple Calculator program
+=======
+# A simple Calculator program
+>>>>>>> 4064d17a26cb1a15f11291ec12f432acc450e4b0
 # By: Ayushi Rawat
 def add(n1,n2):
   return n1+n2
