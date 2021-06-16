@@ -23,7 +23,7 @@ print('2. Subtraction')
 print('3. Multiplication')
 print('4. Division')
 
-user_choice=int(input())
+user_choice=int(input('Enter your choice: ')) # Corrected this on basis of Opened Issue by @Madhusudan pareek
 
 if user_choice in [1,2,3,4]:
   n1=float(input('Enter 1st num: '))
